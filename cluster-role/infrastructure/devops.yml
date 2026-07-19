@@ -5,7 +5,7 @@ metadata:
 rules:
   - apiGroups:
       - ''
-    resources:cc
+    resources:
       - nodes
       - persistentvolumes
       - namespaces
